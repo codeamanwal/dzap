@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://currency-converter-puce-tau.vercel.app/api/v1";
